@@ -1,0 +1,1 @@
+start "Steam Big Picture" "C:\Program Files (x86)\Steam\Steam.exe" -start steam://open/bigpicture
